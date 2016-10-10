@@ -2,6 +2,9 @@
 test of Javascript
 
 ## Install
+1. npm install mocha --save-dev  // npm install mocha -g
+2. npm install chai
+
 
 ## Dependencies
 
